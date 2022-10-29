@@ -1,0 +1,179 @@
+.main-container{
+    background-color: rgb(209, 241, 231);
+
+}
+
+.container-fluid{
+    padding: 8px 10% 10px 8%;
+}
+.container-fluid .btn{
+    width: 100px;
+    border-radius: 40px;
+}
+
+.container-fluid a{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+
+.container-fluid img{
+    width: 20%;
+}
+
+
+.card-div{
+    padding: 0 10% 0 10%;
+}
+
+.card-div img{
+    width: 100%;
+}
+
+
+
+.card4 img{
+    height:52%;
+    width: 21%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.card4{
+    padding: 30px 10% 40px 10%;
+
+}
+
+.small-img img{
+    height: 10px;
+}
+
+
+.card3 img{
+    height: 70%;
+    width: 80%;
+
+}
+.card3{
+    padding: 30px 10% 40px 10%;
+}
+
+
+
+.card-div .pp{
+    color: red;
+    margin-top: 40px;
+}
+
+.card-div h1{
+    font-weight: 900;
+    font-size: 50px;
+    margin-top: 10px;
+
+}
+
+span{
+    color: rgb(12, 200, 163);
+}
+.card-div button{
+    background-color: rgb(3, 107, 87);
+    color: white;
+    border: none;
+    border-radius: 35px;
+    padding: 10px 20px 10px 20px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+.my-card-4:hover{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    transition: all ease 2s;
+
+  
+}
+
+/* card section */
+
+.online-course{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.main-card-container h1{
+    font-size: 1em;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.card-body button{
+    background-color: rgb(3, 107, 87);
+    color: rgb(243, 248, 250);
+    border: none;
+    border-radius: 35px;
+    padding: 10px 20px 10px 20px;
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+
+
+
+.card-container{
+    padding: 0 12% 0 12%;
+    height: 700px;
+    text-align: center;
+}
+
+
+.card-c{
+    background-color: rgb(237, 240, 239);
+}
+
+
+
+
+/* Transition section */
+.card-c:hover{
+    transform: scale(1.02);
+    transition: all ease 1s;
+}
+
+.btn2:hover{
+    background-color: rgb(12, 122, 48);
+}
+
+
+.btn2:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(1px);
+  }
+
+
+
+.div-image img{
+    height: 25px;
+    width: 25px;
+}
+
+
+.card-image{
+    height: 70%;
+    width: 90%;
+    border-radius: 5%;
+    margin-top: 20px;
+}
+
+
+
+
